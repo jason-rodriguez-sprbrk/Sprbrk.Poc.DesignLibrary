@@ -875,11 +875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Cirrus.BlazorServer\\src\\design-library\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
       "projectName": "Sprbrk.Poc.DesignLibrary",
-      "projectPath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
+      "projectPath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Cirrus.BlazorServer\\src\\design-library\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
       "packagesPath": "C:\\Users\\JasonRodriguez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary\\obj\\",
+      "outputPath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Cirrus.BlazorServer\\src\\design-library\\Sprbrk.Poc.DesignLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

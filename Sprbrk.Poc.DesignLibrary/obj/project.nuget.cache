@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WbrAd+0xYI=",
+  "dgSpecHash": "A8UvCmWPs2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
+  "projectFilePath": "C:\\Users\\JasonRodriguez\\RiderProjects\\subtree-poc\\Cirrus.BlazorServer\\src\\design-library\\Sprbrk.Poc.DesignLibrary\\Sprbrk.Poc.DesignLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JasonRodriguez\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.3\\microsoft.aspnetcore.authorization.10.0.3.nupkg.sha512",
     "C:\\Users\\JasonRodriguez\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.3\\microsoft.aspnetcore.components.10.0.3.nupkg.sha512",
